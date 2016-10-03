@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Account Secure</string>
+    <string name="title_activity_account_list">AccountListActivity</string>
 </resources>
